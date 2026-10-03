@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33011842/README.md)
 # 🎮 Steam Cheap Finder
 
 A Chrome extension that finds the cheapest games on Steam, hides the ones you already own, shows the total cost before you buy, and adds your picks to the Steam cart. A second tab compares prices across other legit stores.
